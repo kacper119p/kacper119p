@@ -1,4 +1,4 @@
-
+Aspiring Technical/VFX Artist 🖌️
 <!---- 👋 Hi, I’m @kacper119p
 - 👀 I’m interested in game development;
 - 🌱 I’m currently learning C#, Unity;
